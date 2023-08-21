@@ -1,3 +1,6 @@
+# 💫 About Me:
+Programador front-end e estudante de Análise e Desenvolvimento de Sistemas. Minha paixão por arte e design se combina com minha dedicação à programação, encontrando na codificação uma maneira de unir criatividade com lógica. Minha jornada é pautada pela constante busca em aprimorar a experiência do usuário através de interfaces intuitivas e visualmente atraentes, enquanto mergulho no emocionante desafio de traduzir ideias em realidade digital. Bem-vindo ao meu mundo, onde a criatividade encontra o código.
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucasvinicius.bm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-vinicius-bermudes) 
 
