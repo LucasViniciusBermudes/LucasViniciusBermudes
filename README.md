@@ -42,7 +42,7 @@ Programador front-end e estudante de Análise e Desenvolvimento de Sistemas. Min
 <h2>📊 GitHub Stats</h2>
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=LucasViniciusBermudes&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true' width='40%'>
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=LucasViniciusBermudes&theme=highcontrast&hide_border=true' width='44%'>
+ 
 </div>
 <div align='center'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasViniciusBermudes&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact' width='40%' align='center'>
