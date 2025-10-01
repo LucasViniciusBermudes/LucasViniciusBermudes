@@ -1,49 +1,75 @@
-<div>
-  <h2>💫 Sobre Mim</h2>
-  <p> 
-Programador front-end e estudante de Análise e Desenvolvimento de Sistemas. Minha paixão por arte e design se combina com minha dedicação à programação, encontrando na codificação uma maneira de unir criatividade com lógica. Minha jornada é pautada pela constante busca em aprimorar a experiência do usuário através de interfaces intuitivas e visualmente atraentes, enquanto mergulho no emocionante desafio de traduzir ideias em realidade digital. Bem-vindo ao meu mundo, onde a criatividade encontra o código. 
-  </p>
-</div>
+<h1 align="center">👋 Olá, eu sou o Lucas Vinícius Bermudes</h1>
+<h3 align="center">💻 Front-end Developer | Formado em ADS</h3>
 
-<h2>🌐 Redes Sociais</h2>
-<div align='center'>
+## 💫 Sobre Mim
+Sou programador front-end e estudante de Análise e Desenvolvimento de Sistemas.  
+Minha paixão por **arte e design** se conecta à **programação**, onde encontro a forma perfeita de unir **criatividade e lógica**.  
+
+Atualmente busco evoluir minhas habilidades no desenvolvimento web, criando **interfaces intuitivas e atraentes** que transformam ideias em realidade digital.
+
+## 🌐 Conecte-se Comigo
+<p align="center">
   <a href="https://www.linkedin.com/in/lucas-vinicius-bermudes/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
-  <a href = "https://instagram.com/lucasvinicius.bm">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href = "https://github.com/LucasViniciusBermudes">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  <a href="https://instagram.com/lucasvinicius.bm" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-</div>
+  <a href="https://github.com/LucasViniciusBermudes" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-<h2>💻 Tecnologias</h2>
-<div align='center'>
-  <a><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a> 
-  <a><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a> 
-  <a><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" target="_blank"></a> 
-  <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"></a> 
-  <a><img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
-  <a><img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" target="_blank"></a>
-</div>
+## 💻 Tecnologias & Ferramentas
 
-<h2>📊 GitHub Stats</h2>
-<div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=LucasViniciusBermudes&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true' width='40%'>
- 
-</div>
-<div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=LucasViniciusBermudes&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact' width='40%' align='center'>
-</div>
+### 🚀 Front-end
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+
+### ⚙️ Back-end & Deploy
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<!--![Netlify](https://img.shields.io/badge/netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)-->
+<!--![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)-->
+<!--![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)-->
+
+### 🛠 Ferramentas de Desenvolvimento
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!--![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)-->
+
+### 🎨 Design
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+### 📌 Gestão & Colaboração
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<!--![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)-->
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucasViniciusBermudes&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasViniciusBermudes&theme=highcontrast&hide_border=true&layout=compact" height="180em"/>
+</p>
+
+## 🚀 Em constante evolução
+Atualmente estudando:
+- 🔹 **Banco de Dados (PostgreSQL & MongoDB)**
+- 🔹 **Angular & Back-end**
+- 🔹 **Automações em Python**
+
+
+
