@@ -1,13 +1,13 @@
-<h1 align="center">👋 Olá, eu sou o Lucas Vinícius Bermudes</h1>
-<h3 align="center">💻 Front-end Developer | Formado em ADS</h3>
+<h1 align="center">👋 Hi, I'm Lucas Vinícius Bermudes</h1>
+<h3 align="center">💻 Front-end Developer | Graduated in Systems Analysis and Development</h3>
 
-## 💫 Sobre Mim
-Sou programador front-end e estudante de Análise e Desenvolvimento de Sistemas.  
-Minha paixão por **arte e design** se conecta à **programação**, onde encontro a forma perfeita de unir **criatividade e lógica**.  
+## 💫 About Me
+I’m a front-end developer, graduated in **Systems Analysis and Development**.  
+My passion for **art and design** connects with **programming**, where I find the perfect way to combine **creativity and logic**.  
 
-Atualmente busco evoluir minhas habilidades no desenvolvimento web, criando **interfaces intuitivas e atraentes** que transformam ideias em realidade digital.
+I’m constantly improving my skills in web development, creating **intuitive and visually appealing interfaces** that turn ideas into digital reality.
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/lucas-vinicius-bermudes/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -20,7 +20,7 @@ Atualmente busco evoluir minhas habilidades no desenvolvimento web, criando **in
   </a>
 </p>
 
-## 💻 Tecnologias & Ferramentas
+## 💻 Technologies & Tools
 
 ### 🚀 Front-end
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,7 +32,6 @@ Atualmente busco evoluir minhas habilidades no desenvolvimento web, criando **in
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
 ### ⚙️ Back-end & Deploy
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -42,7 +41,7 @@ Atualmente busco evoluir minhas habilidades no desenvolvimento web, criando **in
 <!--![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)-->
 <!--![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)-->
 
-### 🛠 Ferramentas de Desenvolvimento
+### 🛠 Development Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <!--![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)-->
@@ -53,7 +52,7 @@ Atualmente busco evoluir minhas habilidades no desenvolvimento web, criando **in
 ![Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-### 📌 Gestão & Colaboração
+### 📌 Project Management & Collaboration
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
@@ -65,11 +64,8 @@ Atualmente busco evoluir minhas habilidades no desenvolvimento web, criando **in
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasViniciusBermudes&theme=highcontrast&hide_border=true&layout=compact" height="180em"/>
 </p>
 
-## 🚀 Em constante evolução
-Atualmente estudando:
-- 🔹 **Banco de Dados (PostgreSQL & MongoDB)**
+## 🚀 Always Learning
+Currently studying:
+- 🔹 **Databases (PostgreSQL & MongoDB)**
 - 🔹 **Angular & Back-end**
-- 🔹 **Automações em Python**
-
-
-
+- 🔹 **Python Automations**
