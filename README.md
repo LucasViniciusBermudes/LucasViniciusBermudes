@@ -57,13 +57,13 @@ I’m constantly improving my skills in web development, creating **intuitive an
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 <!--![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)-->
-
+<!--
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LucasViniciusBermudes&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasViniciusBermudes&theme=highcontrast&hide_border=true&layout=compact" height="180em"/>
 </p>
-
+-->
 ## 🚀 Always Learning
 Currently studying:
 - 🔹 **Databases (PostgreSQL & MongoDB)**
