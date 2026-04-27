@@ -66,6 +66,6 @@ I’m constantly improving my skills in web development, creating **intuitive an
 -->
 ## 🚀 Always Learning
 Currently studying:
-- 🔹 **Databases (PostgreSQL & MongoDB)**
-- 🔹 **Angular & Back-end**
-- 🔹 **Python Automations**
+🔹 **Databases (PostgreSQL & MongoDB)**
+🔹 **Angular & Back-end**
+🔹 **Python Automations**
