@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Olá, eu sou Lucas Vinícius Bermudes
+# 👋 Hi, I'm Lucas Vinícius Bermudes
 
-### 💻 Front-End Developer | Tecnólogo em Análise e Desenvolvimento de Sistemas
+### 💻 Front-End Developer | Graduated in Systems Analysis and Development
 
 ![Profile views](https://komarev.com/ghpvc/?username=LucasViniciusBermudes&color=blueviolet&style=flat-square)
 
@@ -10,22 +10,22 @@
 
 ---
 
-## 💫 Sobre mim
+## 💫 About Me
 
-Desenvolvedor front-end com formação em Análise e Desenvolvimento de Sistemas e background em design. Atuo principalmente com **React, TypeScript e React Native**, com experiência crescente em **back-end (Flask, Node.js) e bancos de dados**.
+Front-end developer with a degree in Systems Analysis and Development and a background in design. I work primarily with **React, TypeScript and React Native**, with growing experience in **back-end (Flask, Node.js) and databases**.
 
-Tenho interesse em projetos que combinem arquitetura sólida e experiência de uso bem cuidada. Aberto a oportunidades em front-end, mobile e desenvolvimento full-stack.
+I'm interested in projects that combine solid architecture and well-crafted user experience. Open to opportunities in front-end, mobile and full-stack development.
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vinicius-bermudes/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucasViniciusBermudes)
 
 ---
 
-## 💻 Tecnologias & Ferramentas
+## 💻 Technologies & Tools
 
 ### 🚀 Front-End
 
@@ -49,7 +49,7 @@ Tenho interesse em projetos que combinem arquitetura sólida e experiência de u
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 🛠 Ferramentas de Desenvolvimento
+### 🛠 Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -62,7 +62,7 @@ Tenho interesse em projetos que combinem arquitetura sólida e experiência de u
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
-### 📌 Gestão de Projetos & Colaboração
+### 📌 Project Management & Collaboration
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
@@ -70,25 +70,22 @@ Tenho interesse em projetos que combinem arquitetura sólida e experiência de u
 
 ---
 
-## 🚀 Em constante aprendizado
+## 🚀 Always Learning
 
-Atualmente estudando:
+Currently studying:
 
-- 📱 Desenvolvimento mobile com React Native + Expo
-- 🗄️ Bancos de dados (PostgreSQL e MongoDB)
-- ⚙️ Back-end com Node.js e Flask
-- 🐍 Automações em Python
+- 📱 Mobile development with React Native + Expo
+- 🗄️ Databases (PostgreSQL and MongoDB)
+- ⚙️ Back-end with Node.js and Flask
+- 🐍 Python automations
 
 ---
 
-## 📊 Estatísticas
+## 📊 Stats
 
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=LucasViniciusBermudes&theme=tokyonight&hide_border=true)
-
-[![Followers](https://img.shields.io/github/followers/LucasViniciusBermudes?label=Seguidores&style=for-the-badge&logo=github&color=7B61FF&labelColor=1A1B26)](https://github.com/LucasViniciusBermudes)
-[![Stars](https://img.shields.io/github/stars/LucasViniciusBermudes?label=Stars&style=for-the-badge&logo=github&color=7B61FF&labelColor=1A1B26&affiliations=OWNER)](https://github.com/LucasViniciusBermudes)
 
 </div>
 
@@ -96,9 +93,9 @@ Atualmente estudando:
 
 <div align="center">
 
-### 💬 Vamos conversar?
+### 💬 Let's talk?
 
-Aberto a colaborações, oportunidades e novos projetos.
+Open to collaborations, opportunities and new projects.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@dominio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-vinicius-bermudes/)
